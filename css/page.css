@@ -1,0 +1,55 @@
+body {
+  
+    text-align: center;
+    background-size: cover;
+    background-image: linear-gradient(rgba(71, 60, 60, 0.5),
+    rgba(71, 62, 62, 0.5)
+  ),
+    url("../images/lamproom.png");
+    max-height: 100%;
+    }
+   
+  
+  h1 {
+      font-family: Plak LT BlackExtraCondensed;
+      font-size: 70px;
+      color: #cc3300;
+      
+      
+    }
+    
+    h2 {
+      font-family: Plak LT BlackExtraCondensed;
+      font-size: 35px;  
+      color: #cc3300;
+    
+    }
+    
+    #image {
+      max-width: 35%;
+      display: block;
+      margin: auto; 
+      
+    }
+
+    
+    #img-caption {
+      font-family: times;
+      font-size: 25px;
+      color: white;
+    }
+    
+    
+    
+    p {
+      font-family: american typewriter;
+      font-size: 15px;
+      color: white;
+      
+    
+      
+    }
+    #tribute-link {
+      color: darkcyan;
+      text-decoration: none;
+    }
